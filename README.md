@@ -10,7 +10,7 @@
 
  Repository Structure
 - `data/` → Contains simulated dataset 
-- `scripts/` → Data generation script  
+- `Data_Generator/` → Data generation script  
 - `notebooks/` → Jupyter notebook with full analysis  
 - `README.md` → Project documentation  
 

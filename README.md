@@ -7,6 +7,7 @@
 - Python 3.10+
 - NumPy
 - Pandas
+- Matplotlib
 
  Repository Structure
 - `data/` → Contains simulated dataset 
